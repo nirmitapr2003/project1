@@ -1,6 +1,44 @@
+h1
+{
+	text-align:center;
+	color:black;
+	border:5px solid brown;
+	border-style: double;
+}
 body
 {
-	background-image: url("d8.jpg");
+	background-image: url("w2.jpg");
 	background-repeat: no-repeat;
-   background-size: height=100% width=100%
+   background-size:cover;
+}
+h1
+{
+	font-size: 350%;
+}
+h2
+{
+	font-size: 250%;
+}
+table,th,td
+{
+	border:3px solid black;
+	border-collapse: collapse;
+	padding: 20px;
+	text-align: center;
+}
+ol
+{
+	font-size: 25px;
+}
+th
+{
+	font-size: 20px;
+}
+td
+{
+	font-size: 20px;
+}
+label
+{
+	font-size: 25px;
 }
