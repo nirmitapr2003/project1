@@ -16,6 +16,7 @@ h2
 	font-size: 50px;
 	color: white;
 	text-align: center;
+	margin-top: 30px; 
 }
 .container
 {
@@ -28,6 +29,9 @@ h2
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	font-size: 25px;
+	font-family: 'Architects Daughter', cursive;
+	font-size: 25px;
+	color: white;
 }
  .carousel-inner img {
     width: 100%;
@@ -41,10 +45,19 @@ h2
 	text-align: center;
 	float: center;
 	background-image: url(i3.jpg);
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	font-family: 'Architects Daughter', cursive;
+	font-size: 15px;
+
 }
 th
 {
 	font-size: 30px;
+	font-family: 'Architects Daughter', cursive;
+	
 }
 .card
 {
@@ -78,4 +91,9 @@ th
 	margin-bottom: 30px;
 	margin-top: 30px;
 	background-image: url(i5.jpg);
+}
+a
+{
+	margin-bottom: 30px;
+	margin-left: 30px;
 }
